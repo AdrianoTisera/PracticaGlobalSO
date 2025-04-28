@@ -15,10 +15,6 @@
 
 Uso:
 ```bash
-curl --fsSL https://raw.githubusercontent.com/AdrianoTisera/PracticaGlobalSO/main/admin.sh | sudo bash
-```
-Alternativamente:
-```bash
 git clone https://github.com/AdrianoTisera/PracticaGlobalSO
 cd PracticaGlobalSO
 sudo bash admin.sh
