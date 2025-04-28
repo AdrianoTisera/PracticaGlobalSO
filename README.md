@@ -1,5 +1,5 @@
 <h1 align="center">💻 Práctica Global</h1>
-<h3 align="center">Sistemas Operativos - Tema 1</h3>
+<h3 align="center"><u>Sistemas Operativos - Tema 1</u></h3>
 
 **Alumno:** TISERA AGUILERA, Adriano Gabriel.
 
