@@ -37,11 +37,15 @@ Ejemplos:
 **¿Cuál es la diferencia entre un usuario y un grupo en Active Directory?**
 
 Un usuario en Active Directory representa una entidad individual, como una persona o una cuenta de servicio. Cada cuenta de usuario tiene credenciales únicas (nombre de usuario y contraseña) y puede iniciar sesión en el dominio para acceder a recursos según los permisos asignados.
+
 Aquí puede observarse la creación de un usuario en Active Directory:
+
 ![](./assets/usuarios.png)
 
 Un grupo en Active Directory, por otro lado, es una colección de cuentas de usuario, cuentas de equipo y otros grupos. Los grupos se utilizan para simplificar la administración de permisos y derechos de acceso. En lugar de asignar permisos a cada usuario individualmente, se asignan al grupo, y todos los miembros heredan esos permisos.
+
 Aquí pueden observarse los usuarios como miembros de diferentes grupos:
+
 ![](./assets/grupos.png)
 
 **¿Cómo se pueden auditar los accesos a recursos en Active Directory?**
